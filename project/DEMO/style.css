@@ -1,0 +1,26 @@
+nav{
+
+    box-shadow: 0 8px 12px rgb(0,0,0,0.1 );
+
+
+
+}
+.navbar ul{
+
+    display: flex;
+    gap: 20px;
+     list-style: none;
+
+     float: right;
+     margin-right: 20px;
+
+
+}
+ a{
+  font-weight: 700;
+  
+    
+
+
+
+}
